@@ -21,7 +21,7 @@ Because pulsars are rare and missing one is costly, we optimise **recall** and t
 
 ## Setup
 ```bash
-git clone <your-repo-url> && cd pulsar-ml
+git clone <https://github.com/m1234-404/pulsar-ml> && cd pulsar-ml
 python -m venv venv && source venv/bin/activate     
 pip install -r requirements.txt
 ```
