@@ -70,7 +70,7 @@
     },
     "som": {
       "non_empty_cells": 25,
-      "silhouette_all_cells": 0.09490956728555279,
+      "silhouette_all_cells": 0.09490956728555278,
       "silhouette_k_groups": 0.3137306550970776,
       "sizes": [
         508,
@@ -79,8 +79,8 @@
       ]
     },
     "pca_explained_variance": [
-      0.5881416014270392,
-      0.23166874068020152
+      0.5881416014270391,
+      0.23166874068020157
     ]
   }
 }
